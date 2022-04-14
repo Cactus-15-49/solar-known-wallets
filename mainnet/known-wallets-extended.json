@@ -3,5 +3,15 @@
         "type": "team",
         "name": "Swap Wallet",
         "address": "SP77TpbBYC2nCpaCg3u1BBsYU7zqwqzGo7"
+    },
+    {
+        "type": "exchange",
+        "name": "Xeggex",
+        "address": "Say7XQAJkht8cJAAeiaGaPahn8phjc3rt8"
+    },
+    {
+        "type": "exchange",
+        "name": "Upbit",
+        "address": "SaFe8kfEGqxAUYFfs7oxYA5KttmFGc67gq"
     }
 ]
