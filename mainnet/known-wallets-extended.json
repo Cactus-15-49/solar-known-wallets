@@ -5,6 +5,11 @@
         "address": "SP77TpbBYC2nCpaCg3u1BBsYU7zqwqzGo7"
     },
     {
+        "type": "team",
+        "name": "Solar Foundation",
+        "address": "Sdao2USyAz9B6RBgZeFyNDePuQAxfzZZHE"
+    },
+    {
         "type": "exchange",
         "name": "Xeggex",
         "address": "Say7XQAJkht8cJAAeiaGaPahn8phjc3rt8"
@@ -13,5 +18,10 @@
         "type": "exchange",
         "name": "Upbit",
         "address": "SaFe8kfEGqxAUYFfs7oxYA5KttmFGc67gq"
+    },
+    {
+        "type": "exchange",
+        "name": "Gate.io",
+        "address": "SPERNMNijYi2oJxBWPa2S12vNX71TV6coB"
     }
 ]
