@@ -23,5 +23,10 @@
         "type": "exchange",
         "name": "Gate.io",
         "address": "SPERNMNijYi2oJxBWPa2S12vNX71TV6coB"
+    },
+    {
+        "type": "exchange",
+        "name": "Bitget",
+        "address": "Sf3dFDs3V6aUG94uYYSkeTnW6Dbz9Dp6A2"
     }
 ]
