@@ -28,5 +28,10 @@
         "type": "exchange",
         "name": "Bitget",
         "address": "Sf3dFDs3V6aUG94uYYSkeTnW6Dbz9Dp6A2"
+    },
+    {
+        "type": "exchange",
+        "name": "MEXC",
+        "address": "SXYenS1fbHLK3mxCopJXxcnr6fhgzjc4Ah"
     }
 ]
