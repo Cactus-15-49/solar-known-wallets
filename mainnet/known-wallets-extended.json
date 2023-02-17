@@ -33,10 +33,5 @@
         "type": "exchange",
         "name": "MEXC",
         "address": "SXYenS1fbHLK3mxCopJXxcnr6fhgzjc4Ah"
-    },
-    {
-        "type": "exchange",
-        "name": "IndoEx",
-        "address": "SddRGYsipqLzJbuvAtZHUBT8XtbqR8sKkZ"
     }
 ]
